@@ -25,7 +25,6 @@ INDEX VERSION 1.134+C:\Users\mayki\eclipse-workspace\.metadata\.plugins\org.ecli
 806116791.index
 2402176173.index
 1591423556.index
-461047863.index
 894874483.index
 321764594.index
 3237560300.index
